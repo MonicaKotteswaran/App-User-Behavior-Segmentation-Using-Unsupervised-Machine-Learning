@@ -1,0 +1,2 @@
+# App-User-Behavior-Segmentation-Using-Unsupervised-Machine-Learning
+Built an ML pipeline to segment 50,000 app users into 4 distinct behavioral groups using K-Means clustering. Applied feature scaling, Elbow Method for optimal cluster selection, and PCA for visualization. Identified High Engagement, Moderate Engagement, Occasional, and At-Risk user segments with actionable business strategies for each group.
